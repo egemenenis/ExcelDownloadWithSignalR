@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\shared\\_toast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\shared\\_toast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\hubs\\apphub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\hubs\\apphub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\backgroundservices\\createexcelbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\backgroundservices\\createexcelbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|c:\\users\\egemen.ertas\\desktop\\exceldownloadwithsignalr\\exceldownloadwithsignalr.web\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9B4088-3600-405B-ABB7-EBA63FACA38A}|ExcelDownloadWithSignalR.Web\\ExcelDownloadWithSignalR.Web.csproj|solutionrelative:exceldownloadwithsignalr.web\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:42:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:31:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Home\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\ProductList.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Home\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:57:51.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateExcelBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\BackgroundServices\\CreateExcelBackgroundService.cs",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\BackgroundServices\\CreateExcelBackgroundService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\BackgroundServices\\CreateExcelBackgroundService.cs",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\BackgroundServices\\CreateExcelBackgroundService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:02:43.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-28T11:33:39.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppHub.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Hubs\\AppHub.cs",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Hubs\\AppHub.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Hubs\\AppHub.cs",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Hubs\\AppHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:09:16.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Services\\FileService.cs",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:05:33.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Toast.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Toast.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Toast.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Toast.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Shared\\_Toast.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:42:20.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:42:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Program.cs",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:10:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:42:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:41:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:41:56.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:41:55.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "ExcelDownloadWithSignalR.Web\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "ExcelDownloadWithSignalR.Web\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T12:41:54.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

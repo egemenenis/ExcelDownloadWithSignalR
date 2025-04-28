@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "ProductList";
+}
+
+@section Scripts
+{
+    <script>
+        $(document).ready(function() {
+
+            $("#btn-create-excel").click(function() {
+
+                $.ajax({
+                    url: "/Home/CreateExcel",
+                    type: "GET",
+                    dataType: "json",
+                    success: function (data) {
+                        console.log(data);
+
+                        $(".toast-body").html("The Excel creation request has been received, you will be notified when completed.")
+
+                        $("#liveToast").show();
+
+                       toastTimeout = setTimeout(() => {
+
+                            $("#liveToast").hide();
+                        }, 3000)
+                    },
+                    error: function (err) {
+                        alert("You must be a member to download the Excel file.")
+                    }
+                })
+            })
+        });
+    </script>
+}
+
+
+@model List<Product>
+
+<p>
+    <a class="btn btn-primary" href="#" id="btn-create-excel">Create Excel</a>
+</p>
+
+
+<h1>ProductList</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Description
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>

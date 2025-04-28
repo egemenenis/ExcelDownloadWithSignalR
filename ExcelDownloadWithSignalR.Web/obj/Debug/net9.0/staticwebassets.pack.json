@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ExcelDownloadWithSignalR.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExcelDownloadWithSignalR.Web.p84wi5u2yb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list0155ee2e-0d7e-4a25-bb54-81aff49bdd17.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list0155ee2e-0d7e-4a25-bb54-81aff49bdd17.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list151b175e-4c8e-44c4-84ce-68e7c641284e.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list151b175e-4c8e-44c4-84ce-68e7c641284e.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list1bb06c95-7156-436b-94c5-380a691cc021.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list1bb06c95-7156-436b-94c5-380a691cc021.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list2827958b-566b-46fc-ae1f-8f5034fd4ffd.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list2827958b-566b-46fc-ae1f-8f5034fd4ffd.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list2cb27c89-9ef5-4cf1-b382-c36fa3479f38.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list2cb27c89-9ef5-4cf1-b382-c36fa3479f38.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list4f2ded7d-b0e1-42ba-98f4-5f2a2dc56900.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list4f2ded7d-b0e1-42ba-98f4-5f2a2dc56900.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list7361e18a-db5f-4050-9557-63c99963773f.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list7361e18a-db5f-4050-9557-63c99963773f.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list917eb3e8-a71b-438d-9b43-e9bab91ca9e2.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list917eb3e8-a71b-438d-9b43-e9bab91ca9e2.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list92a33534-1146-47fe-8e6f-24fad1a67c2c.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list92a33534-1146-47fe-8e6f-24fad1a67c2c.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-list95d50403-d7aa-4487-93ff-7cab507b2ae4.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-list95d50403-d7aa-4487-93ff-7cab507b2ae4.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-listb1ed20aa-5e62-43b4-8076-bd88c9bbec4b.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-listb1ed20aa-5e62-43b4-8076-bd88c9bbec4b.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-listc2aec01d-8c06-4ed2-b727-8cebcecdbc4d.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-listc2aec01d-8c06-4ed2-b727-8cebcecdbc4d.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-listdb887842-f2e9-4a04-b168-a88b961dedfd.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-listdb887842-f2e9-4a04-b168-a88b961dedfd.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-listdc58455f-90e3-4455-a123-0f2199e66844.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-listdc58455f-90e3-4455-a123-0f2199e66844.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\files\\product-listfbbe0873-4c2b-43a3-b8af-07464ca4d9f1.xlsx",
+      "PackagePath": "staticwebassets\\files\\product-listfbbe0873-4c2b-43a3-b8af-07464ca4d9f1.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\egemen.ertas\\Desktop\\ExcelDownloadWithSignalR\\ExcelDownloadWithSignalR.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExcelDownloadWithSignalR.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExcelDownloadWithSignalR.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ExcelDownloadWithSignalR.Web.props",
+      "PackagePath": "build\\ExcelDownloadWithSignalR.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ExcelDownloadWithSignalR.Web.props",
+      "PackagePath": "buildMultiTargeting\\ExcelDownloadWithSignalR.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ExcelDownloadWithSignalR.Web.props",
+      "PackagePath": "buildTransitive\\ExcelDownloadWithSignalR.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
